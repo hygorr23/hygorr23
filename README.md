@@ -49,7 +49,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hygorr23&show_icons=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorr23&layout=compact" />
 </div>
-
 ---
 
 ## 📂 Repositórios
