@@ -45,10 +45,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hygorr23&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorr23&layout=compact"/>
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
