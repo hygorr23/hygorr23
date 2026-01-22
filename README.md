@@ -46,8 +46,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hygorr23&show_icons=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorr23&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hygorr23&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorr23&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 ---
 
